@@ -1,5 +1,7 @@
 # Museo font family
 
+(Possibly) The most comprehensive collection of the Museo font family, over the whole Internet.
+
 ## Subsets
 
 - [Museo](./fonts/Museo%20Sans/) (10 fonts)
@@ -8,3 +10,4 @@
 - [Museo Sans Display](./fonts/Museo%20Sans%20Display/) (5 fonts)
 - [Museo Sans Rounded](./fonts/Museo%20Sans%20Rounded/) (12 fonts)
 - [Museo Slab](./fonts/Museo%20Slab/) (12 fonts)
+- [Museo Slab Rounded](./fonts/Museo%20Slab%20Rounded/) (12 fonts)
